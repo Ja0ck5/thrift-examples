@@ -33,7 +33,7 @@ public class ThriftSimpleClientDemo {
 		}
 
 		// Closes the transport.
-//		transport.close();
+		transport.close();
 	}
 
 }
